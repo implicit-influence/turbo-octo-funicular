@@ -15,6 +15,7 @@
 
   <Hotel  rating="4.2">
     <Name>Sheraton Portland Airport Hotel</Name>
+    <Name>Sheraton Portlandia Airport Hotel</Name>
     <Phone>503-281-2500</Phone>
     <Address><Number>8235</Number><Street>NE Airport Way</Street><City>Portland</City><State>OR</State><Zip>97220</Zip></Address>
   </Hotel>

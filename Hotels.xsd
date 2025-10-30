@@ -14,8 +14,8 @@
                     <xs:element name="Number" type="xs:string"/>
                     <xs:element name="Street" type="xs:string"/>
                     <xs:element name="City"   type="xs:string"/>
-                    <xs:element name="State"  type="xs:string"/>  <!-- keep simple; pattern if desired -->
-                    <xs:element name="Zip"    type="xs:string"/>  <!-- 5-digit pattern if desired -->
+                    <xs:element name="State"  type="xs:string"/>
+                    <xs:element name="Zip"    type="xs:string"/>
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>

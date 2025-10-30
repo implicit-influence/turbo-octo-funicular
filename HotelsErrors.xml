@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel nearestAirport="Sky Harbor" rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone><Phone>800-937-8461</Phone>
+    <Address><Number>11</Number><Street>E. 7th St</Street><City>Tempe</City><State>AZ</State><Zip>85281</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="ORD" rating="4.3">
+    <Name>The Westin O'Hare</Name>
+    <Phone>847-698-6000</Phone>
+    <Address><Number>6100</Number><Street>N River Rd</Street><City>Rosemont</City><State>IL</State><Zip>60018</Zip></Address>
+  </Hotel>
+
+  <Hotel  rating="4.2">
+    <Name>Sheraton Portland Airport Hotel</Name>
+    <Phone>503-281-2500</Phone>
+    <Address><Number>8235</Number><Street>NE Airport Way</Street><City>Portland</City><State>OR</State><Zip>97220</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="FAI">
+    <Name>Best Western Plus Chena River Lodge</Name>
+
+    <Address><Number>1255</Number><Street>Tvsa Way</Street><City>Fairbanks</City><State>AK</State><Zip>99709</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="PVD" rating="4.3">
+    <Name>Crowne Plaza Providence-Warwick</Name>
+    <Phone>401-732-6000</Phone>
+    <Phone>401-732-6001</Phone>
+    <Phone>401-732-6002</Phone>
+    <Address><Number>801</Number><Street>Greenwich Ave</Street><City>Warwick</City><State>RI</State><Zip>02886</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="SAN" rating="4.7">
+    <Name>Fairmont Grand Del Mar</Name>
+    <Phone>858-314-2000</Phone>
+    <Address><Number>5300</Number><Street>Grand Del Mar Ct</Street><City>San Diego</City><State>CA</State><Zip>92130</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="MRY">
+    <Name>Post Ranch Inn</Name>
+    <Phone>831-667-2200</Phone>
+    <Phone>831-667-2201</Phone>
+    <Phone>831-667-2202</Phone>
+    <Phone>831-667-2203</Phone>
+    <Address><Number>47900</Number><Street>CA-1</Street><City>Big Sur</City><State>CA</State><Zip>93920</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="SAF" rating="4.6">
+    <Name>Four Seasons Resort Rancho Encantado Santa Fe</Name>
+    <Phone>505-946-5700</Phone>
+    <Address><Number>198</Number><Street>NM-592</Street><City>Santa Fe</City><State>NM</State><Zip>87506</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="ROA" >
+    <Name>The Lodge at Primland, Auberge Collection</Name>
+    <Phone>855-876-6593</Phone>
+    <Address><Number>2000</Number><Street>Busted Rock Rd</Street><City>Meadows of Dan</City><State>VA</State><Zip>24120</Zip></Address>
+  </Hotel>
+
+  <Hotel nearestAirport="PVC" rating="4.8">
+    <Name>Land's End Inn</Name>
+    <Phone>508-487-0706</Phone>
+    <Address><Number>22</Number><Street>Commercial St</Street><City>Provincetown</City><State>MA</State><Zip>02657</Zip>
+  </Hotel>
+
+  <!-- This should be a copy of Hotels.XML but with some errors injected as test pattern -->
+</Hotel>

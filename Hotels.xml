@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://raw.githubusercontent.com/implicit-influence/turbo-octo-funicular/refs/heads/main/Hotels.xsd" targetNamespace="https://raw.githubusercontent.com/implicit-influence/turbo-octo-funicular/refs/heads/main/Hotels.xsd" elementFormDefault="qualified" attributeFormDefault="unqualified">
   <Hotel nearestAirport="Sky Harbor" rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone><Phone>800-937-8461</Phone>

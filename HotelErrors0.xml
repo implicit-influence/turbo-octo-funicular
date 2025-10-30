@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
   <Hotel nearestAirport="Sky Harbor" rating="4.2">
     <Name>Westin</Name>
@@ -13,16 +13,15 @@
     <Address><Number>6100</Number><Street>N River Rd</Street><City>Rosemont</City><State>IL</State><Zip>60018</Zip></Address>
   </Hotel>
 
-  <Hotel  rating="4.2">
+  <Hotel nearestAirport="PDX" rating="4.2">
     <Name>Sheraton Portland Airport Hotel</Name>
-    <Name>Sheraton Portlandia Airport Hotel</Name>
     <Phone>503-281-2500</Phone>
     <Address><Number>8235</Number><Street>NE Airport Way</Street><City>Portland</City><State>OR</State><Zip>97220</Zip></Address>
   </Hotel>
 
   <Hotel nearestAirport="FAI">
     <Name>Best Western Plus Chena River Lodge</Name>
-
+    <Phone>907-328-3500</Phone>
     <Address><Number>1255</Number><Street>Tvsa Way</Street><City>Fairbanks</City><State>AK</State><Zip>99709</Zip></Address>
   </Hotel>
 
@@ -64,8 +63,6 @@
   <Hotel nearestAirport="PVC" rating="4.8">
     <Name>Land's End Inn</Name>
     <Phone>508-487-0706</Phone>
-    <Address><Number>22</Number><Street>Commercial St</Street><City>Provincetown</City><State>MA</State><Zip>02657</Zip>
+    <Address><Number>22</Number><Street>Commercial St</Street><City>Provincetown</City><State>MA</State><Zip>02657</Zip></Address>
   </Hotel>
-
-  <!-- This should be a copy of Hotels.XML but with some errors injected as test pattern -->
-</Hotel>
+</Hotels>
